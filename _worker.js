@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "nautica.lokercikarang.eu.org";
-let APP_DOMAIN = "nautica";
+let serviceName = "vpnsatu1.vercel.app";
+let APP_DOMAIN = "vpnsatu1";
 
 let prxIP = "";
 let cachedPrxList = [];
