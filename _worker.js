@@ -1,7 +1,7 @@
-import { connect } from "cloudflare:sockets";
+import { connect } from "netlify:sockets";
 
 // Variables
-let serviceName = "vpnsatu1.vercel.app";
+let serviceName = "vpnsatu1.netlify.app";
 let APP_DOMAIN = "vpnsatu1";
 
 let prxIP = "";
