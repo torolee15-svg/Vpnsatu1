@@ -1,8 +1,8 @@
-import { connect } from "netlify:sockets";
+import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "vpnsatu1.netlify.app";
-let APP_DOMAIN = "vpnsatu1";
+let serviceName = "";
+let APP_DOMAIN = "";
 
 let prxIP = "";
 let cachedPrxList = [];
